@@ -1,0 +1,14 @@
+div {
+    border: 1px solid rgb(89, 24, 105);
+    box-sizing: border-box; // pra que a borda seja de dentro pra fora
+    border-radius: 3px;
+}
+
+body {
+    background-color: #666;
+    color: white;
+}
+
+h1, h3{
+    text-align: center;
+}
